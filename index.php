@@ -5,7 +5,7 @@ echo "Hello shalvi, Yeh meri pehli PHP Script hai!";
 
 // Variable declare karna
 $name = "Shivangi";
-$age = 22;
+$age = 19;
 
 // Output display karna
 echo "<br>";
