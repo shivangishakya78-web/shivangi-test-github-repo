@@ -1,7 +1,7 @@
 <?php
 // Simple PHP Script
 
-echo "Hello, Yeh meri pehli PHP Script hai!";
+echo "Hello shalvi, Yeh meri pehli PHP Script hai!";
 
 // Variable declare karna
 $name = "Shivangi";
